@@ -1,0 +1,4 @@
+foo:
+  matrix:
+    name1: bar
+    name2: baz

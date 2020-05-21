@@ -1,0 +1,6 @@
+node1:
+  config:
+    foo: bar
+
+node1:
+  key: value
